@@ -17,8 +17,8 @@
     "recast"
   ],
   "dependencies": {
-    "jscodeshift": "^0.3.30",
-    "nuclide-format-js": "0.0.36"
+    "jscodeshift": "^0.4.0",
+    "nuclide-format-js": "0.0.42"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
